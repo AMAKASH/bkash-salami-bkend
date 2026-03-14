@@ -54,6 +54,8 @@ app.use(
       "http://localhost:8080",
       "https://salamidinbkashe.com/",
       "https://www.salamidinbkashe.com/",
+      "https://bkashsalami.com",
+      "https://www.bkashsalami.com",
     ],
     credentials: true,
   }),
